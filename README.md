@@ -3,7 +3,7 @@
 
 # FrontEnd_Assignment2Part2
 
-This is my part 2 of Assignment 2. In this repository, I have added, HTML and CSS file of types of cards. In this file, you will fine 4 types of beginner level cards with few lines of codes to get a beautiful card to incorporate in front-end designs.
+This is my part 2 of Assignment 2. In this repository, I have added, HTML and CSS file of types of cards. In this file, you will find 4 types of beginner level cards with few lines of codes to get a beautiful card to incorporate in front-end designs.
 You can check out my Medium article here: 
 
 ## For Part-1: 
