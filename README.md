@@ -3,11 +3,4 @@
 
 # CardCraft
 
-In this repository, I have added, HTML and CSS file of types of cards. In this file, you will find 4 types of beginner level cards with few lines of codes to get a beautiful card to incorporate in front-end designs.
-You can check out my Medium article here: 
-
-## For Part-1: 
-### Git-Hub Repository: 
-https://github.com/Sriya-2904/FrontEnd_Assignment2Part1
-### Medium Article:
-[Types of Blobs using CSS Border-Radius] (https://medium.com/@sriyasreerama_29/types-of-blobs-using-css-border-radius-d6fd1fbaf8b3)
+In this repository, I have added, HTML and CSS file of types of cards. In this file, I have done my take on how many types and how can we create cards which is useful and also be attractive for websites.
