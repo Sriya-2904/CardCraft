@@ -1,7 +1,7 @@
 
 <img width="305" alt="Screenshot 2024-08-11 161151" src="https://github.com/user-attachments/assets/0940d97c-f674-46b9-ae04-3ca6d69382af">
 
-# FrontEnd_Assignment2Part2
+# CardCraft
 
 This is my part 2 of Assignment 2. In this repository, I have added, HTML and CSS file of types of cards. In this file, you will find 4 types of beginner level cards with few lines of codes to get a beautiful card to incorporate in front-end designs.
 You can check out my Medium article here: 
